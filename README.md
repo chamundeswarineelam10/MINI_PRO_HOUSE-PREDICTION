@@ -248,3 +248,13 @@ These improvements can significantly increase prediction accuracy and usability.
 🏁 Conclusion
 
 This project demonstrates how Machine Learning can be applied to real-world problems such as house price prediction. Using Linear Regression and historical housing data, the system predicts property prices with good accuracy. The model can help buyers, sellers, and real estate professionals make better decisions based on data-driven insights.  
+
+
+📬 Contact
+Name: Neelam. Venkata Chamundeswari 
+
+Mail: chamundeswarineelam10@gmail.com 
+
+Ph.No: 9390530126
+
+Linkidin Profile:https://www.linkedin.com/in/v-chamundeswari-neelam-bb181427b/
