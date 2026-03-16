@@ -1,4 +1,5 @@
 🏠 House Price Prediction using Machine Learning
+
 📌 Project Overview
 
 This project focuses on building a House Price Prediction System using Machine Learning. The system predicts the price of a house based on various features such as area, number of bedrooms, location, and other housing attributes. The model analyzes historical housing data and generates accurate predictions to assist buyers, sellers, and real estate professionals in making informed decisions.
